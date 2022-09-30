@@ -1,2 +1,2 @@
 # CF-FinalAssignment
-Fullstack Web App
+Fullstack Web App with JDBC
