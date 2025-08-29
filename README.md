@@ -34,7 +34,7 @@ src/main/webapp/
     jsps/         → JSP views
     static/       → CSS, JS, images
     WEB-INF/      → web.xml configuration
-
+```
     
 ### ⚙️ Installation & Setup
 
