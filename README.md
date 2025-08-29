@@ -1,5 +1,5 @@
 # CF-FinalAssignment
-##### Fullstack Web App with JDBC
+### Fullstack Web App with JDBC
 
 ## Doctors Appointment Management System
 
