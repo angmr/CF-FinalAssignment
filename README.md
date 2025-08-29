@@ -22,6 +22,7 @@ The system follows the MVC pattern using JSP for views, Servlets for controllers
 - Maven (for dependency management and build)
 
 ### Project Structure
+```text
 src/main/java/gr/aueb/cf/doctorsapp/
     controller/   → Servlets (handle HTTP requests)
     dao/          → Data access objects (JDBC)
