@@ -48,6 +48,6 @@ mvn clean package
 Copy the generated .war file from target/ into Tomcat’s webapps/ folder
 Start Tomcat and access the app at: http://localhost:8080/doctorsapp
 
-###### Database Setup
+##### Database Setup
 Import the SQL schema (see resources/schema.sql) into MySQL (or configure H2)
 Update DB credentials in dao/DBUtil.java if needed
