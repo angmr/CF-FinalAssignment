@@ -7,7 +7,7 @@ A Java EE web application for managing doctors and patients, developed as a fina
 The system follows the MVC pattern using JSP for views, Servlets for controllers, and DAO + Service layers for business logic and persistence.
 
 ### Features
-= User registration and login
+- User registration and login
 - Add, update, delete doctors
 - Add, update, delete patients
 - Book and manage appointments
