@@ -7,19 +7,19 @@ A Java EE web application for managing doctors and patients, developed as a fina
 The system follows the MVC pattern using JSP for views, Servlets for controllers, and DAO + Service layers for business logic and persistence.
 
 ### Features
-User registration and login
-Add, update, delete doctors
-Add, update, delete patients
-Book and manage appointments
-Input validation and error handling
-Layered architecture (Controller → Service → DAO → DB)
+= User registration and login
+- Add, update, delete doctors
+- Add, update, delete patients
+- Book and manage appointments
+- Input validation and error handling
+- Layered architecture (Controller → Service → DAO → DB)
 
 ### Technologies Used
-Java EE (Servlets, JSP)
-JDBC (MySQL / H2 depending on configuration)
-HTML, CSS, Bootstrap
-Apache Tomcat (tested with Tomcat 9)
-Maven (for dependency management and build)
+- Java EE (Servlets, JSP)
+- JDBC (MySQL / H2 depending on configuration)
+- HTML, CSS, Bootstrap
+- Apache Tomcat (tested with Tomcat 9)
+- Maven (for dependency management and build)
 
 ### Project Structure
 src/main/java/gr/aueb/cf/doctorsapp/
